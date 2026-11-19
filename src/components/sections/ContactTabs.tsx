@@ -49,7 +49,7 @@ export function ContactTabs({ initial }: { initial: "contact" | "career" }) {
               <p className="mt-1 text-xs font-semibold uppercase tracking-wider text-brand-light">{c.type}</p>
               <p className="mt-3 flex-1 text-sm text-muted">{c.desc}</p>
               {applied === c.title ? (
-                <p role="status" className="mt-5 text-sm font-semibold text-emerald-400">Thanks! Send your CV to careers@meizon.example and we will be in touch.</p>
+                <p role="status" className="mt-5 text-sm font-semibold text-emerald-400">Thanks! Send your CV to sales@meizontechnologies.com and we will be in touch.</p>
               ) : (
                 <Button className="mt-5 self-start" onClick={() => setApplied(c.title)}>Apply now</Button>
               )}

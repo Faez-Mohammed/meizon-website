@@ -2,10 +2,10 @@ export const company = {
   name: "MEIZON",
   legal: "MEIZON Technologies Pvt Ltd",
   tagline: "IT Solutions & Digital Innovation",
-  address: ["Level 4, Orbit Business Park, Lake View Road,", "Marine Drive, Kochi, Kerala 682031"],
-  phone: "+91 98765 43210",
-  phoneHref: "+919876543210",
-  email: "hello@meizon.example",
+  address: ["Ground Floor, Al Hazmi Tower, Pattambi Rd,", "behind SBI, Shanti Nagar, Perinthalmanna, Kerala 679322"],
+  phone: "+91 92075 54433",
+  phoneHref: "+919207554433",
+  email: "sales@meizontechnologies.com",
 };
 
 export const navServices = [
@@ -71,8 +71,8 @@ export const testimonials = [
 ];
 
 export const careers = [
-  { title: "Senior React / Next.js Developer", type: "Full-time · Kochi", desc: "Build fast, accessible product UIs with Next.js and TypeScript." },
+  { title: "Senior React / Next.js Developer", type: "Full-time · Perinthalmanna", desc: "Build fast, accessible product UIs with Next.js and TypeScript." },
   { title: "Flutter Mobile Developer", type: "Full-time · Hybrid", desc: "Ship polished cross-platform apps for ERP and retail clients." },
-  { title: "UI/UX Designer", type: "Full-time · Kochi", desc: "Design clear, delightful experiences for complex business software." },
-  { title: ".NET Backend Engineer", type: "Full-time · Kochi", desc: "Design APIs and data models that power our ERP and CRM suites." },
+  { title: "UI/UX Designer", type: "Full-time · Perinthalmanna", desc: "Design clear, delightful experiences for complex business software." },
+  { title: ".NET Backend Engineer", type: "Full-time · Perinthalmanna", desc: "Design APIs and data models that power our ERP and CRM suites." },
 ];
